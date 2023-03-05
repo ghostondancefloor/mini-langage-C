@@ -11,8 +11,11 @@ Dans cette class on trouve :
    <li> Des listes pour stocker les règles de production</li>
  </ul>
  <li>Un dictionnaire imbriqué qui va représenter notre table d'analyse
- <li>La méthode analyse(chaine) qui va déterminer si la  chaine(type String) passer en paramètre est acceptée ou non. On commence l'analyse par l'initialisation de la pile principale (de type deque parce qu'on a besoin que du sommet de la pile) et de la création d'une autre pile pour stocker les mots de la chaine passer en paramètre sans oublier l'ajout du $ à la fin de la pile.</li>
-</ul>
+ <li>La méthode <strong>analyse(chaine)</strong> qui va déterminer si la  chaine passer en paramètre est acceptée ou non.</ul>
+ On commence l'analyse par l'initialisation de la pile principale et de la création d'une autre pile pour stocker les mots de la chaine passer en paramètre sans oublier l'ajout du $ à la fin de la pile.</li>
+ </br>
+ 
+
 J'ai aussi choisi de mettre en place une fenêtre pour recevoir la chaine à analyser grâce au module tkinter de python.
 
 Pour tester le programme :
