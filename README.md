@@ -17,7 +17,8 @@ Dans cette class on trouve :
  
 
 J'ai aussi choisi de mettre en place une fenêtre pour recevoir la chaine à analyser grâce au module tkinter de python.
+![Capture d’écran 2023-03-05 171417](https://user-images.githubusercontent.com/86691120/222972289-4ec73f1a-8aeb-48be-88f2-88914382ed89.png)
 
 Pour tester le programme :
-  La chaine acceptée : main() { float id int id if id = nombre id = nombre else id = nombre if id < nombre id = nombre else id = nombre }
-  La chaine non acceptée : main() { int id float nombre if id = nombre else id < nombre }
+ <li> <strong>La chaine acceptée:</strong> main() { float id int id if id = nombre id = nombre else id = nombre if id < nombre id = nombre else id = nombre }</li>
+  <li> <strong>La chaine non acceptée:</strong> main() { int id float nombre if id = nombre else id < nombre }</li>
